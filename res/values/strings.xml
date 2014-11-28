@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Encryption</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="phone_label">Enter Phone Number:</string>
+    <string name="sms_label">Enter SMS Message:</string>
+    <string name="send_sms_label">Send</string>
+    <string name="read_sms_label">Read SMS</string>
+    <string name="key_label">Enter Key:</string>
+    <string name="title_activity_read_sms">ReadSms</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="encrypted">Encrypted text:</string>
+
+</resources>
